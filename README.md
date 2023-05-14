@@ -1,5 +1,5 @@
 ### Hi👋
-🔭 I am a junior student majoring in IT Engineering
+🔭 I am a junior student majoring in IT Engineering!
 
 <!--
 **skybrightblue1/skybrightblue1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
